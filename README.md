@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at FPT University **studying at FPT University**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **vietthaist01@gmail.com**
 
