@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thai</h1>
-<h3 align="center">Learning .NET from FPT University</h3>
+<h3 align="center">Learning Software Engineering at FPT University</h3>
 
 - 🔭 I’m currently studying at FPT University **studying at FPT University**
 
